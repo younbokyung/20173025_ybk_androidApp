@@ -7,3 +7,5 @@
 
 
 <img width="300" height="300" src="./png/강아지.jpg"></img>
+
+<img width="300" height="600" src="./png/2주차과제.png"></img>
