@@ -4,7 +4,6 @@
 
 ## 2주차
 - Github사용법
--   AVD실행하기
--   Toast 알림 출력해보기
--     SHORT
--     LONG 
+
+
+<img width="300" height="300" src="./png/강아지.jpg"></img>
