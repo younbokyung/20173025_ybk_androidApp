@@ -1,3 +1,10 @@
-# 20173025_ybk_androidApp
+# 캡스톤디자인 주간 A반
 
-## 안드로이드 스튜디오
+## 1주차
+
+## 2주차
+- Github사용법
+-   AVD실해앟기
+-   Toast 알림 출력해보기
+-     SHORT
+-     LONG 
