@@ -13,3 +13,8 @@
 
 <img width="300" height="550" src="./png/2주차과제.png"></img>
 ## 3주차
+- 3주차 과제
+
+
+<img width="300" height="550" src="./png/3주차과제-1.png"></img>
+<img width="300" height="550" src="./png/3주차과제-2.png"></img>
