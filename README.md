@@ -58,4 +58,4 @@
 - 7주차 과제
 
 
-<img width="300" height="550" src="./png/7주차과제.png"></img>
+<img width="300" height="550" src="./png/7주차 과제.png"></img>
