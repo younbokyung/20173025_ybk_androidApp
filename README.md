@@ -52,3 +52,10 @@
 <img width="300" height="550" src="./png/6주차과제-3.png"></img>
 <img width="300" height="550" src="./png/6주차과제-4.png"></img>
 
+
+
+## 7주차
+- 7주차 과제
+
+
+<img width="300" height="550" src="./png/7주차과제.png"></img>
