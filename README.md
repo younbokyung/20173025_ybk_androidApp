@@ -87,7 +87,8 @@
 
 
 <img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/142353163-553979e1-c3ff-4a5f-aedd-3948f504d841.gif"></img>
+
 - 12주차 추가 과제
 
 
-<img width="300" height="550" src="12주차-2.png"></img>
+<img width="300" height="550" src="./png/12주차과제-2.png"></img>
